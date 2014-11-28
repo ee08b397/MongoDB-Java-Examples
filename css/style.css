@@ -1191,3 +1191,59 @@ div.cover{ border:1px solid #d6d6d6; padding:5px;}
         width:100%;
     }
 }
+
+/* other
+   ========================================================================== */
+
+#header  #gh-btns {
+    position: relative;
+    top: 25%;
+    left: 37%;
+
+}
+
+
+
+#footer .author {
+    margin: 0 auto;
+    width: 700px;
+    font-size: 1.6em;
+    text-align: center;
+    clear: both;
+}
+
+#footer  .author a {
+    text-decoration: none;
+    color: #FF6600;
+
+}
+
+#footer .author a:hover {
+    color: #FF0000;
+}
+
+
+#footer  .author .heart {
+    display: inline-block;
+    position: relative;
+    top: .2em;
+    font-size: 1.6em;
+    color: #FF0066;
+    -webkit-transform: scale(.7);
+    -moz-transform: scale(.7);
+    transform: scale(.7);
+    -webkit-animation: heart .4s infinite linear alternate-reverse;
+    -moz-animation: heart .4s infinite linear alternate-reverse;
+    animation: heart .4s infinite linear alternate-reverse;
+}
+@-webkit-keyframes heart {
+    to { -webkit-transform: scale(1.0); }
+}
+
+@-moz-keyframes heart {
+    to { -moz-transform: scale(1.0); }
+}
+
+@keyframes heart {
+    to { transform:  scale(1.0); }
+}
