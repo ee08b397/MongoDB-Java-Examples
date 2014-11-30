@@ -4,7 +4,9 @@
 
 > Complete Java programs to access the MongoDB with MongoDB Java Driver
 
-Check this [website](http://itgeekworkhard.com/MongoDB-Java-Examples/).
+Check this [website](http://itgeekworkhard.com/MongoDB-Java-Examples/). Current examples include 
+connect database, manipulate collection, CRUD document, cursor, morphia, index, GridFS, 
+textsearch, aggregation framework, replication and sharding.
 
 ###License
 
