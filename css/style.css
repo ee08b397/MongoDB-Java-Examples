@@ -28,7 +28,7 @@ img, fieldset {
     border: 0;
 }
 img {
-    max-width:560px;
+    max-width:1000px;
     height: auto;
     display:block;
 }
