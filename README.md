@@ -10,4 +10,4 @@ textsearch, aggregation framework, replication and sharding.
 
 ###License
 
-MongoDB Java Examples is licensed under the terms of the MIT License. See the [LICENSE file](https://github.com/checkcheckzz/MongoDB-Java-Examples/blob/master/LICENSE) for details.
+MongoDB Java Examples is licensed under the terms of the MIT License. See the [LICENSE file](https://github.com/checkcheckzz/MongoDB-Java-Examples/blob/master/LICENSE.md) for details.
