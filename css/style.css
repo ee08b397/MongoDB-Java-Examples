@@ -1,3 +1,7 @@
+/*
+     The copywrite of file belongs to tutorialspoint (http://tutorialspoint.com/).
+*/
+
 .bottom_ad_slot { width: 320px; height: 50px; }
 @media (min-width:500px) { .bottom_ad_slot { width: 336px; height: 280px; } }
 
@@ -478,7 +482,7 @@ ul.choice, ol.choice{
     list-style:upper-alpha;
 }
 ul.list li{
-    background:url(/images/icon-bullet.png) no-repeat 0px 0px; padding:0px 0px 0px 19px;
+    background:url(../img/icon-bullet.png) no-repeat 0px 0px; padding:0px 0px 0px 19px;
 }
 ol.alpha{
     padding-left:35px;
@@ -1192,7 +1196,7 @@ div.cover{ border:1px solid #d6d6d6; padding:5px;}
     }
 }
 
-/* other
+/* my own part
    ========================================================================== */
 
 #header  #gh-btns {
